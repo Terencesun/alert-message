@@ -36,6 +36,6 @@ obj: {
 ### vm.$alert.close()
 手动关闭弹出窗，一般用不到，多为内置方法使用
 
-该插件编写讲解[：手把手带你撸个vue插件](https://terencesun.github.io/blog/2018/02/14/%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%92%B8%E4%B8%AAvue%E6%8F%92%E4%BB%B6.html)
+该插件编写讲解：[手把手带你撸个vue插件](https://terencesun.github.io/blog/2018/02/14/%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E6%92%B8%E4%B8%AAvue%E6%8F%92%E4%BB%B6.html)
 
 谢谢大家！✿✿ヽ(°▽°)ノ✿
